@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622400477599",
+    "project_id": "galleryapp-ef296",
+    "storage_bucket": "galleryapp-ef296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622400477599:android:d99f40801be1634b6545aa",
+        "android_client_info": {
+          "package_name": "ge.nlatsabidze.galleryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622400477599-ebf282k7ejc3sbroqfqqt4dgdfed8o3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xaB8UhO68Ok9SsrolWDDUUifsKg7GUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622400477599-ebf282k7ejc3sbroqfqqt4dgdfed8o3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

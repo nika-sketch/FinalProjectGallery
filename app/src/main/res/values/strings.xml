@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_profile">Profile</string>
+    <string name="profile_logo">Profile Logo</string>
+    <string name="sign_out">გასვლა</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="add_an_image">Add an image</string>
+    <string name="gallery_image">Gallery Image</string>
+</resources>
